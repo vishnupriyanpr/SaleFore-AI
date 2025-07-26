@@ -1,5 +1,5 @@
 
-# 📈 SaleFore AI 📈 – Ultra-Accurate, GPU-Optimized Sales Forecasting Suite
+# SaleFore AI 📈 – Ultra-Accurate, GPU-Optimized Sales Forecasting Suite
 
 > _"Turning raw retail data into crystal-clear sales foresight."_  
 > 🎯 Powered by: **XGBoost**, **LightGBM**, **CatBoost**, **Prophet**, **Optuna**, and **CUDA**  
