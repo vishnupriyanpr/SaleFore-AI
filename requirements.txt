@@ -1,0 +1,17 @@
+prophet==1.1.5
+xgboost==2.0.3
+lightgbm==4.3.0
+scikit-learn==1.4.0
+optuna==3.6.0
+pandas==2.2.0
+numpy==1.26.0
+matplotlib==3.8.0
+seaborn==0.13.0
+joblib==1.4.0
+plotly==5.17.0
+# Note: torch==2.10 already installed
+# GPU acceleration packages compatible with PyTorch 2.10
+torchvision>=0.17.0  # Compatible with torch 2.10
+rapids-xgboost==24.02.*
+cudf-cu12==24.02.*
+cuml-cu12==24.02.*
