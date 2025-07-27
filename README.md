@@ -191,24 +191,7 @@ erDiagram
 ```
 
 
----
 
-## 🧪 Requirements
-
-```txt
-pandas
-numpy
-scikit-learn
-xgboost
-lightgbm
-catboost
-prophet
-optuna
-matplotlib
-seaborn
-joblib
-tqdm
-```
 
 ---
 
