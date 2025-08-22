@@ -5,10 +5,10 @@
 > 🎯 Powered by: **XGBoost**, **LightGBM**, **CatBoost**, **Prophet**, **Optuna**, and **CUDA**  
 > 💼 Engineered by: **Vishnupriyan P R**
 
-![GPU Powered](https://img.shields.io/badge/GPU%20Optimized-CUDA%20Accelerated-orange?style=for-the-badge)
-![Forecasting](https://img.shields.io/badge/Sales%20Forecasting-Ensemble%20Learning-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Built%20With-Python-green?style=for-the-badge)
-![MIT License](https://img.shields.io/badge/License-MIT-informational?style=for-the-badge)
+![GPU Powered](https://img.shields.io/badge/GPU%20Optimized-CUDA%20Accelerated-orange?)
+![Forecasting](https://img.shields.io/badge/Sales%20Forecasting-Ensemble%20Learning-blue?)
+![Python](https://img.shields.io/badge/Built%20With-Python-green?)
+![MIT License](https://img.shields.io/badge/License-MIT-informational?)
 
 ---
 
@@ -198,6 +198,24 @@ erDiagram
 **Made with 💓 Vishnupriyan P R**  
 📧 `priyanv783@gmail.com`  
 🔗 GitHub: [vishnupriyanpr](https://github.com/vishnupriyanpr)
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <td align="center" style="width:50%;">
+        <a href="https://github.com/vishnupriyanpr">
+                  <img src="https://github.com/vishnupriyanpr.png?size=120" width="120px;" alt="Vishnupriyan P R"/>
+      </a>
+      </td>
+      <td align="center" style="width:50%;">
+        <blockquote>
+          <p>“Tools should disappear into the background and let you build.”</p>
+          <footer>— Vishnupriyan P R, <i>caffeinated coder ☕</i></footer>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ## 📜 License
